@@ -1,6 +1,6 @@
 import pytest
 import asyncio
-from simplerss.simplerss import process_rssfeeds
+from ultrafastrss.ultrafastrss import process_rssfeeds
 
 import json
 

@@ -3,12 +3,12 @@ import xml.etree.ElementTree as ET
 from unittest.mock import patch
 from dateutil.parser import parse
 
-from simplerss.simplerss import rss_parser
+from ultrafastrss.ultrafastrss import rss_parser
 
 def test_rss_parser():
     # Mock is_valid_url and parser.parse
-    with patch('simplerss.simplerss.is_valid_url') as mock_is_valid_url, \
-         patch('simplerss.simplerss.parser.parse') as mock_parse:
+    with patch('ultrafastrss.ultrafastrss.is_valid_url') as mock_is_valid_url, \
+         patch('ultrafastrss.ultrafastrss.parser.parse') as mock_parse:
 
         # Mock return values
         mock_is_valid_url.side_effect = lambda url: url == "http://example.com"  # Valid URL check

@@ -3,7 +3,7 @@
 import pytest
 from unittest.mock import patch
 
-from simplerss.simplerss import rss_parser
+from ultrafastrss.ultrafastrss import rss_parser
 
 from importlib.resources import files
 

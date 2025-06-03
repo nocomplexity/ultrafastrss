@@ -30,31 +30,31 @@ dependencies = ["Brotli",
 ]
 
 [project.urls]
-Documentation = "https://github.com/Maikel Mardjan/simplerss#readme"
-Issues = "https://github.com/Maikel Mardjan/simplerss/issues"
-Source = "https://github.com/Maikel Mardjan/simplerss"
+Documentation = "https://github.com/Maikel Mardjan/ultrafastrss#readme"
+Issues = "https://github.com/Maikel Mardjan/ultrafastrss/issues"
+Source = "https://github.com/Maikel Mardjan/ultrafastrss"
 
 [tool.hatch.version]
-path = "src/simplerss/__about__.py"
+path = "src/ultrafastrss/__about__.py"
 
 [tool.hatch.envs.types]
 extra-dependencies = [
   "mypy>=1.0.0",
 ]
 [tool.hatch.envs.types.scripts]
-check = "mypy --install-types --non-interactive {args:src/simplerss tests}"
+check = "mypy --install-types --non-interactive {args:src/ultrafastrss tests}"
 
 [tool.coverage.run]
-source_pkgs = ["simplerss", "tests"]
+source_pkgs = ["ultrafastrss", "tests"]
 branch = true
 parallel = true
 omit = [
-  "src/simplerss/__about__.py",
+  "src/ultrafastrss/__about__.py",
 ]
 
 [tool.coverage.paths]
-simplerss = ["src/simplerss", "*/simplerss/src/simplerss"]
-tests = ["tests", "*/simplerss/tests", "*/simplerss/tests/resources"]
+ultrafastrss = ["src/ultrafastrss", "*/ultrafastrss/src/ultrafastrss"]
+tests = ["tests", "*/ultrafastrss/tests", "*/ultrafastrss/tests/resources"]
 
 [tool.coverage.report]
 exclude_lines = [

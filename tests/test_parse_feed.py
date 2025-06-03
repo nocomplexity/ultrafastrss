@@ -22,13 +22,13 @@ This test ensures the parse_feed function correctly handles different feed types
 import pytest
 import xml.etree.ElementTree as ET
 from unittest.mock import patch
-from simplerss.simplerss import parse_feed
+from ultrafastrss.ultrafastrss import parse_feed
 
 def test_parse_feed():
     # Mock the parser functions
-    with patch('simplerss.simplerss.rss_parser') as mock_rss, \
-         patch('simplerss.simplerss.atom_parser') as mock_atom, \
-         patch('simplerss.simplerss.rdf_parser') as mock_rdf:
+    with patch('ultrafastrss.ultrafastrss.rss_parser') as mock_rss, \
+         patch('ultrafastrss.ultrafastrss.atom_parser') as mock_atom, \
+         patch('ultrafastrss.ultrafastrss.rdf_parser') as mock_rdf:
 
         # Mock return values
         mock_rss.return_value = [{"title": "RSS feed"}]

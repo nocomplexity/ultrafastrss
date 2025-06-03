@@ -1,6 +1,6 @@
 import pytest
 import xml.etree.ElementTree as ET
-from simplerss.simplerss import rdf_parser, parse_date, is_valid_url
+from ultrafastrss.ultrafastrss import rdf_parser, parse_date, is_valid_url
 
 
 def test_rdf_parser():

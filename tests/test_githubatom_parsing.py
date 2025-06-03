@@ -1,6 +1,6 @@
 import pytest
 
-from simplerss.simplerss import atom_parser
+from ultrafastrss.ultrafastrss import atom_parser
 from importlib.resources import files
 
 expected_result = [
