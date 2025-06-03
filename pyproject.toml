@@ -30,9 +30,9 @@ dependencies = ["Brotli",
 ]
 
 [project.urls]
-Documentation = "https://github.com/Maikel Mardjan/ultrafastrss#readme"
-Issues = "https://github.com/Maikel Mardjan/ultrafastrss/issues"
-Source = "https://github.com/Maikel Mardjan/ultrafastrss"
+Documentation = "https://github.com/nocomplexity/ultrafastrss#readme"
+Issues = "https://github.com/nocomplexity/ultrafastrss/issues"
+Source = "https://github.com/nocomplexity/ultrafastrss"
 
 [tool.hatch.version]
 path = "src/ultrafastrss/__about__.py"
