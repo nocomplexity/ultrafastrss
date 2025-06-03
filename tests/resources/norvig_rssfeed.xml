@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel> 
+    <title>Peter Norvig</title>
+    <link>http://www.norvig.com</link>
+    <description>Articles by Peter Norvig</description>
+    <language>en-us</language>
+
+    <item><title>xkcd 1970: Name Dominoes</title>
+        <description>Lay out dominoes legally; the dominoes have people names, not numbers.</description>
+        <guid>https://github.com/norvig/pytudes/blob/master/ipynb/xkcd-Name-Dominoes.ipynb</guid>
+        <link>https://github.com/norvig/pytudes/blob/master/ipynb/xkcd-Name-Dominoes.ipynb</link>
+        <dc:date>2018-3-21</dc:date></item>
+
+    <item><title>Functional Lifestyles Training</title>
+        <description>Some heavy lambda lifting could get you in better functional shape.</description>
+        <guid>https://medium.com/@peternorvig/functional-lifestyles-training-47984a3cd2ba</guid>
+        <link>https://medium.com/@peternorvig/functional-lifestyles-training-47984a3cd2ba</link>
+        <dc:date>2018-4-1</dc:date></item>
+
+      
+    <item><title>JScheme</title>
+        <description>An implementation of the Scheme programming language in Java.</description>
+        <guid>http://norvig.com/jscheme.html</guid>
+        <link>http://norvig.com/jscheme.html</link>
+        <dc:date>2005-08-08</dc:date></item>
+
+  </channel>
+</rss>

@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NO Complexity</title>
+	<atom:link href="https://nocomplexity.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nocomplexity.com</link>
+	<description>Simplify IT</description>
+	<lastBuildDate>Fri, 18 Apr 2025 07:19:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8</generator>
+
+<image>
+	<url>https://nocomplexity.com/wp-content/uploads/2015/08/cropped-nocxlogo_512x512_sitelogo-32x32.png</url>
+	<title>NO Complexity</title>
+	<link>https://nocomplexity.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Shift left:  from complex and reactive to simple and proactive</title>
+		<link>https://nocomplexity.com/shift-left/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 07:18:02 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[architecture]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4757</guid>
+
+					<description><![CDATA[Cyber security is complex. But effective cyber solutions do not need to be complex and very expensive. To avoid misunderstandings: Simplifying your security landscape is not simple at all, but rather means rethinking your strategy and reprioritizing objectives: It is crucial to remember that risks can never be zero. The perfect security solution with zero [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Cyber security is complex. But effective cyber solutions do not need to be complex and very expensive.</p>
+
+
+
+<p>To avoid misunderstandings: Simplifying your security landscape is not simple at all, but rather means rethinking your strategy and reprioritizing objectives:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Risks</li>
+
+
+
+<li>Costs</li>
+
+
+
+<li>Value</li>
+</ul>
+
+
+
+<span id="more-4757"></span>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img fetchpriority="high" decoding="async" width="520" height="360" src="https://nocomplexity.com/wp-content/uploads/2025/04/risk_costs_value.png" alt="" class="wp-image-4758" srcset="https://nocomplexity.com/wp-content/uploads/2025/04/risk_costs_value.png 520w, https://nocomplexity.com/wp-content/uploads/2025/04/risk_costs_value-300x208.png 300w" sizes="(max-width: 520px) 100vw, 520px" /></figure>
+
+
+
+<p>It is crucial to remember that risks can never be zero. The perfect security solution with zero risks does not exist. There will always be risks that can not be mitigated. Not by technology nor by procedures. And costs are always limited. Security is not a feature, but a costly quality attribute that is only noticed when things go very wrong.</p>
+
+
+
+<p>More budget and more expensive cyber technology does not help to mitigate all your risks. There is an optimum.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="700" height="560" src="https://nocomplexity.com/wp-content/uploads/2025/04/cost_vs_benefit.png" alt="" class="wp-image-4759" srcset="https://nocomplexity.com/wp-content/uploads/2025/04/cost_vs_benefit.png 700w, https://nocomplexity.com/wp-content/uploads/2025/04/cost_vs_benefit-300x240.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<p>What is needed is a shift to simpler thinking about cyber security defence measurements.</p>
+
+
+
+<p>This means more emphasis on what works from a preventive perspective. Preventive security measurements are often less technical. Or have nothing to do with technology measurements at all. Most preventive security measurements involve humans, human behaviour, human trust and simple to follow procedures and policies that everyone understands and can be followed without friction.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" width="1182" height="251" src="https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simple.png" alt="" class="wp-image-4760" srcset="https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simple.png 1182w, https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simple-300x64.png 300w, https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simple-1024x217.png 1024w, https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simple-768x163.png 768w" sizes="(max-width: 1182px) 100vw, 1182px" /></figure>
+
+
+
+<p>Good effective security measures that cost less to design, implement and maintain are preventive solutions. These solutions require changes in business processes or behaviour. E.g. Instead of implementing a very expensive and hard to maintain technology that limits access to confidential documents while also having expensive software to detect unauthorised access. Banning people from having a phone is sometimes a simple and cost effective way to prevent information from being copied.</p>
+
+
+
+<p>The best preventive solutions like creating a good security architecture require no complex technology nor expensive maintenance. Complex technology used in cyber security is often corrective software, to detect errors in previous design steps.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="766" height="640" src="https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simplifysecurity.png" alt="" class="wp-image-4761" srcset="https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simplifysecurity.png 766w, https://nocomplexity.com/wp-content/uploads/2025/04/shift_left_simplifysecurity-300x251.png 300w" sizes="auto, (max-width: 766px) 100vw, 766px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open ML/AI News week 13-2025</title>
+		<link>https://nocomplexity.com/open-ai-news-week-13-2025/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Sat, 29 Mar 2025 18:29:00 +0000</pubDate>
+				<category><![CDATA[Machine Learning News]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4754</guid>
+
+					<description><![CDATA[Hosting cost and development costs for training LLMs are immense. Offering licenses to companies and sell LLM prompts as SAAS services are by far not enough for a healthy revenue for AI companies. So the risk is that AI companies will sooner or later sell your data. That is why ethical AI is a must. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Hosting cost and development costs for training LLMs are immense. Offering licenses to companies and sell LLM prompts as SAAS services are by far not enough for a healthy revenue for AI companies. So the risk is that AI companies will sooner or later sell your data. That is why <a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" target="_blank" rel="noreferrer noopener">ethical AI is a must</a>. Machine learning systems must be data responsible. They should use only what they need and delete it when it is no longer needed (“data minimization”).</p>
+
+
+
+<span id="more-4754"></span>
+
+
+
+<h2 class="wp-block-heading">1 Powering the AI Revolution</h2>
+
+
+
+<p>FOSS is the real power behind the current AI / LLM products. A core <a href="https://nocomplexity.com/documents/fossml/generatedfiles/mlframeworks.html#ml-frameworks-solutions" target="_blank" rel="noreferrer noopener">foundation product</a> that every AI company uses is PyTorch. This is a nice documentary that outlines the strength of the PyTorch community. </p>
+
+
+
+<p>(<a href="https://www.youtube.com/watch?v=rgP_LBtaUEc" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">2 How is AI impacting science?</h2>
+
+
+
+<p>A nice read to make you think about current progress of AI applications and the hard problems we still have to solve.</p>
+
+
+
+<p>(<a href="https://michaelnotebook.com/mc2023/index.html" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">3 STORM</h2>
+
+
+
+<p>STORM is a LLM system that writes Wikipedia-like articles from scratch based on Internet search. It generates a full-length report with citations. Great for researchers and developed by researchers. Check the repository <a href="https://github.com/stanford-oval/storm" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>(<a href="https://storm.genie.stanford.edu/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">4 Mushrooming Risk: Unreliable A.I. Tools Generate Mushroom Misinformation</h2>
+
+
+
+<p>Mushrooms are toxic, and several can be deadly when you eat them. After reading this article you will never ever eat a mushroom that is sorted by a AI powered sorting machine! So why use AI within military, surveillance, cars or other areas where people will get killed when we know that the output can never be trusted?</p>
+
+
+
+<p>(<a href="https://www.citizen.org/article/mushroom-risk-ai-app-misinformation/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">5 The Real Story Behind Sam Altman’s Firing From OpenAI</h2>
+
+
+
+<p>The use-cases for LLMs seem unexplored beyond basic chatbot stuff. So there is pressure on all <a href="https://nocomplexity.com/documents/fossml/businessofai.html#the-business-of-ai" target="_blank" rel="noreferrer noopener">so called AI companies</a>. OpenAI was set up to be a different kind of company, one governed by a nonprofit board with a duty not to shareholders but to “humanity.”</p>
+
+
+
+<p>(<a href="https://archive.is/20250329135312/https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d#selection-2099.0-2099.53" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">6 As AI’s power grows, so does our workday</h2>
+
+
+
+<p>Technological progress has been expected to lighten the burden of work. Keynes (1930) predicted that by 2030, rising productivity would allow people to work 15 hours a week. But higher AI exposure is associated with longer work hours and reduced leisure time! Great article to get another perspective.</p>
+
+
+
+<p>(<a href="https://cepr.org/voxeu/columns/ais-power-grows-so-does-our-workday" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">7 Open Source AI is the Path Forward</h2>
+
+
+
+<p>This article is now already 8 months old. But it is still a very interesting and MUST READ article. Its written by Mark Zuckerberg, Founder and CEO. &#8220;Open Source AI Is Good for Meta&#8221;. Truth is Llama is indeed a great piece of FOSS software releases by Meta. You should have an opinion about this article and think about the &#8216;Why&#8217;! A key question is still what <a href="https://nocomplexity.com/documents/fossml/whyossml.html#why-free-and-open-machine-learning" target="_blank" rel="noreferrer noopener">open AI really is or should be or become</a>. </p>
+
+
+
+<p>(<a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">8 Can LLMs write better code if you keep asking</h2>
+
+
+
+<p>Learning is great. But reading great experiments from others saves time. Conclusion &#8220;LLMs can’t discern between average code and good, highly-performant code without guidance&#8221;. So we have still work to do!</p>
+
+
+
+<p>(<a href="https://minimaxir.com/2025/01/write-better-code/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">9 GenAI’s day of reckoning may have come</h2>
+
+
+
+<p>The Future of AI is not GenAI. GenAI is now enormously popular, but it is neither reliable nor particularly well-grounded in truth. Nice article to think about GenAI from another perspective.</p>
+
+
+
+<p>(<a href="https://garymarcus.substack.com/p/genais-day-of-reckoning-may-have" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p class="has-small-font-size"><em>Our partners:</em></p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://nocomplexity.com/" target="_blank" rel="https://nocomplexity.com/ noopener"><img loading="lazy" decoding="async" width="501" height="77" src="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png" alt="nocomplexity" class="wp-image-4527" srcset="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png 501w, https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner-300x46.png 300w" sizes="auto, (max-width: 501px) 100vw, 501px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.bm-support.org/"><img loading="lazy" decoding="async" width="251" height="89" src="https://nocomplexity.com/wp-content/uploads/2022/01/ROI_logo.png" alt="" class="wp-image-4559"/></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-thumbnail is-resized wp-duotone-grayscale"><a href="https://nocomplexity.com/ads-and-sponsoring/"><img loading="lazy" decoding="async" width="150" height="150" src="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png" alt="" class="wp-image-4634" style="object-fit:cover;width:100px;height:90px" srcset="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png 150w, https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></figure>
+</div>
+</div>
+</div>
+
+
+
+<p class="has-background has-small-font-size has-very-light-gray-background-color"><em>The FOSS Machine Learning News Blog is a brief overview of  open machine learning news from all over the world. Free and Open machine learning means that everyone must be able to develop, test and play and deploy machine learning solutions. Read and share the <a href="https://nocomplexity.com/foss-ml/" target="_blank" rel="noreferrer noopener">FOSS ML Guide</a>! And remember:You are invited to join the<a rel="noreferrer noopener" href="https://github.com/nocomplexity/FreeAndOpenMachineLearning" target="_blank"> Free and Open Machine Learning </a>open collaboration project.</em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open Security News week 12-2025</title>
+		<link>https://nocomplexity.com/security-news-week-12-2025/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Sun, 23 Mar 2025 16:09:17 +0000</pubDate>
+				<category><![CDATA[Security News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4750</guid>
+
+					<description><![CDATA[Cyber security is a complex field. It requires expertise of many different areas like business sciences and computer sciences. Security risks are difficult to manage and to control. Despite the costs and resources will be invested: major disasters due to security breaches are always possible. Simplification of security measurements, both tools and processes, is challenging [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Cyber security is a complex field. It requires expertise of many different areas like business sciences and computer sciences. Security risks are difficult to manage and to control. Despite the costs and resources will be invested: major disasters due to security breaches are always possible. Simplification of security measurements, both tools and processes, is challenging but in the end always profitable.</p>
+
+
+
+<span id="more-4750"></span>
+
+
+
+<h2 class="wp-block-heading">1. 2FA or not 2FA</h2>
+
+
+
+<p>Sometimes I see security blogs that triggers me. This is such a blog post. It is a very opinionated view on a key cyber security topic. It has some red flags but it is not all nonsense. There is almost never a complete wrong or right. But from a technology point of view a complete wrong exist! But still this article has a valid point: most 2FA enabled services are to protect the service as a whole and not created to protect you as a single user.</p>
+
+
+
+<p>(<a href="http://mikhailian.mova.org/node/295" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">2. NixOS and reproducible builds could have detected the xz backdoor</h2>
+
+
+
+<p>In March 2024, a backdoor was discovered in xz, a (de)-compression software that is regularly used at the core of Linux distributions to unpack source tarballs of packaged software. This is a great write up on how this xz backdoor worked and how it could be prevented.</p>
+
+
+
+<p>(<a href="https://luj.fr/blog/how-nixos-could-have-detected-xz.html" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">3. Servo Security Report: findings and solutions</h2>
+
+
+
+<p>Servo is a web browser rendering engine written in Rust, with WebGL and WebGPU support, and adaptable to desktop, mobile, and embedded applications. Any program language contains security risks specific, but reading this report and finding gives you as a security professional more insights in the kind of security issues is specific related to the Rust language. <a href="https://servo.org/files/ngie-servo-penetration-test-report-2024-1.0.pdf" target="_blank" rel="noreferrer noopener">Download URL to the full report</a>.</p>
+
+
+
+<p>(<a href="https://servo.org/blog/2025/02/26/servo-security-report/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">4. The Insecurity of Telecom Stacks</h2>
+
+
+
+<p>Do not and never trust on the security of T-Mobile and other telecommunications companies. So always <a href="https://nocomplexity.com/documents/securityarchitecture/architecture/securityprinciples.html#security-principles" target="_blank" rel="noreferrer noopener">practice good security principles</a> as &#8220;Defense in Depth&#8221; or &#8220;Don’t trust any network, including your own&#8221;. This blog is a good reminder how things work and how vulnerable mobile networks still are!</p>
+
+
+
+<p>(<a href="https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">5. A Win for Encryption: France Rejects Backdoor Mandate</h2>
+
+
+
+<p>the French National Assembly has done the right thing: it rejected a dangerous proposal that would have gutted end-to-end encryption in the name of fighting drug trafficking. Hopefully other governments and the EU will follow&#8230;</p>
+
+
+
+<p>(<a href="https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">6. Memory safety for web fonts</h2>
+
+
+
+<p>This is great news! <a href="https://freetype.org/" target="_blank" rel="noreferrer noopener">FreeType is a freely available software library</a> to render fonts. It is written in C. The FreeType library is used by Chrome to compute metrics and load hinted outlines from fonts. Overall, use of FreeType has been a huge win for Google. It does a complex job, and does it well, but is due to long lasting security issues Google will replace it.</p>
+
+
+
+<p>(<a href="https://developer.chrome.com/blog/memory-safety-fonts" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">7. Implications of Global Privacy Control</h2>
+
+
+
+<p>A <a href="https://www.w3.org/TR/gpc/" target="_blank" rel="noreferrer noopener">new draft specification from W3C</a> that is promising. When all companies, even supermarkets with horrible ads, are only focused on how to get all your digital movements and data, it&#8217;s refreshing to have a specification that prioritizes the needs of the web user. Hopefully a step toward greater transparency and control for web users.<br>(<a href="https://developer.mozilla.org/en-US/blog/global-privacy-control/" target="_blank" rel="noreferrer noopener">link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">8. Infection Monkey</h2>
+
+
+
+<p>Personally I am not a big fan of Akamai and the services it offers and sells. But it is not all bad. They created and maintain a nice FOSS security tool Infection Monkey. It is an open-source adversary emulation platform that helps you validate existing controls and identify how attackers might exploit your current network security gaps. Nice tool to check!</p>
+
+
+
+<p>(<a href="https://nocomplexity.com/documents/securitysolutions/generatedfiles/infectionmonkey.html#infection-monkey" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">9. Analysis of Security in OS-Level Virtualization</h2>
+
+
+
+<p>This is certainly not a good security research paper imho. But is outlines a clear threat model and I love the conclusion: &#8220;Although continuous effort has been put into hardening the security of the containers, attackers always try to find vulnerabilities within the containerized systems and exploit these vulnerabilities. It doesn’t matter how battle-tested these systems are, there is always a chance of an unnoticed vulnerability existing within the systems which the attacker finds and exploits&#8221;</p>
+
+
+
+<p>(<a href="https://arxiv.org/abs/2501.01334v1" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p class="has-small-font-size"><em>Our partners:</em></p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://nocomplexity.com/" target="_blank" rel="https://nocomplexity.com/ noopener"><img loading="lazy" decoding="async" width="501" height="77" src="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png" alt="nocomplexity" class="wp-image-4527" srcset="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png 501w, https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner-300x46.png 300w" sizes="auto, (max-width: 501px) 100vw, 501px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.bm-support.org/"><img loading="lazy" decoding="async" width="251" height="89" src="https://nocomplexity.com/wp-content/uploads/2022/01/ROI_logo.png" alt="" class="wp-image-4559"/></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-thumbnail is-resized wp-duotone-grayscale"><a href="https://nocomplexity.com/ads-and-sponsoring/"><img loading="lazy" decoding="async" width="150" height="150" src="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png" alt="" class="wp-image-4634" style="object-fit:cover;width:100px;height:90px" srcset="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png 150w, https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background no-border-radius" href="https://nocomplexity.com/documents/securityarchitecture/introduction.html" style="background-color:#ff0000">Use the Open Security Reference Architecture</a></div>
+</div>
+
+
+
+<p class="has-background has-small-font-size" style="background-color:#d3d7db">The Open Security newsletter is an overview of cyber security news with a core focus on openness. Pointing out what went wrong after a cyber security breach is easy. Designing good and simple measurements is hard. So join the open <a href="https://nocomplexity.com/documents/securityarchitecture/introduction.html">Security Reference Architecture</a> collaboration project to create better solutions together. Or <a href="https://nocomplexity.com/ads-and-sponsoring/">become a partner</a> to support this project. Use our <a rel="noreferrer noopener" href="https://nocomplexity.com/rss2" target="_blank">RSS</a> or <a rel="noreferrer noopener" href="https://nocomplexity.com/atom" target="_blank">ATOM</a> feed to follow Open Security News.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open Security News week 10-2025</title>
+		<link>https://nocomplexity.com/security-news-week-10-2025/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2025 16:36:40 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Security News]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4742</guid>
+
+					<description><![CDATA[When using FOSS software you have the advantage to inspect the source code on malicious flaws. However almost all software is distributed to end users as pre-compiled binaries. This creates a problem: How do you know if the software is not injected with malicious code? Compiling the software yourself is not enough to be sure [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">When using FOSS software you have the advantage to inspect the source code on malicious flaws. However almost all software is distributed to end users as pre-compiled binaries. This creates a problem: How do you know if the software is not injected with malicious code?</p>
+
+
+
+<p>Compiling the software yourself is not enough to be sure that no flaws have been introduced. So check if your software has a reproducible build. A reproducible build is, an approach to determine whether generated binaries correspond with their original source code.</p>
+
+
+
+<span id="more-4742"></span>
+
+
+
+<h2 class="wp-block-heading">1 New Zealand Company’s ‘Impossible-to-Hack’ Security Turns Out to Be No Security at All</h2>
+
+
+
+<p>Never ever claim that your system is 100% secure. This is impossible. So read this story and enjoy.    </p>
+
+
+
+<p>(<a href="https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">2 Writing Secure Go Code</h2>
+
+
+
+<p>keeping security in mind when writing Go code. From a <a href="https://nocomplexity.gumroad.com/l/securitybydesign" target="_blank" rel="noreferrer noopener">security-by-design</a> perspective a must! But answering this question in a short article is impossible. But this is a nice try!</p>
+
+
+
+<p>(<a href="https://jarosz.dev/article/writing-secure-go-code/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">3 Microsoft Chooses Profit Over Security</h2>
+
+
+
+<p>Unfortunately, this could be no surprise for you. If you are following Microsoft business model over the last decades. But stories like are still worth reading!</p>
+
+
+
+<p>(<a href="https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">4 EU Tries To Intercept Encrypted Web Traffic Without Anyone Noticing</h2>
+
+
+
+<p>Democracy within the EU is lacks transparency. We like to point to other countries, but we don&#8217;t see our own mistakes. And we get angry when an American points this out to us. New and dangerous elements of the EU regulation eIDAS were added in closed-door meetings without any public consultation of experts. It’s a blatant power-grab by the EU. eIDAS is a huge technical failure and the millions spend are wasted money.</p>
+
+
+
+<p>(<a href="https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">5 It&#8217;s Like Flossing Your Teeth</h2>
+
+
+
+<p>We advocate for using <a href="https://nocomplexity.com/documents/securityarchitecture/prevention/reproduciblebuilds.html#reproducible-builds" target="_blank" rel="noreferrer noopener">Reproducible builds</a> for a long time. This research paper again proves we are not wrong. Nice read with good arguments in this paper to end security discussions in your team.</p>
+
+
+
+<p>(<a href="https://publications.teamusec.de/2023-oakland-repro/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">6 How Hype Will Turn Your Security Key Into Junk</h2>
+
+
+
+<p>I have posted news articles on PassKey before. Knowledge on the disadvantages should be regularly posted, until we all have a shared view on this technology. Spoiler: It is not a <a href="https://nocomplexity.com/documents/reports/SimplifySecurity.pdf" target="_blank" rel="noreferrer noopener">Holy Grail</a>!</p>
+
+
+
+<p>(<a href="https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">7 The $1.5B Bybit Hack</h2>
+
+
+
+<p>Every security professional should read this story. It is a great story on how banks and crypto wallets are hacks. Never trust financial companies with your money that do not have a legal obligation to indemnify you in the event of a hack. And make sure you do not need special lawyers in a foreign country if you are not a billionaire. Check also this story &#8216;<a href="https://cyberinsights.substack.com/p/14-billion-in-crypto-stolen" target="_blank" rel="noreferrer noopener">$1.4 Billion in Crypto Stolen</a>&#8216; to the most recent story in this area.</p>
+
+
+
+<p>(<a href="https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">8 LLMs are the reason that most AI security companies won&#8217;t last</h2>
+
+
+
+<p>LLMs are substantially easier to use, most companies and developers will use LLMs rather than going out to build and train their own models. The question left is of course: What kind of expensive huma expert knowledge is required in the coming years to avoid large security risks? </p>
+
+
+
+<p>(<a href="https://franklyspeaking.substack.com/p/how-the-ai-security-space-will-evolve" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">9 The UK will neither confirm nor deny that it’s killing encryption</h2>
+
+
+
+<p>The UK may have set a precedent for other governments to follow when it reportedly ordered Apple to give it backdoor access to iCloud data. We already know that many so called democratic countries in the EU like to ban encryption. From a security and privacy perspective this is disastrous. It will end our democracies that are already under heavy pressure. Full transparency and control on the digital agendas that our governments create behind closed doors is a minimum first step towards improvement.</p>
+
+
+
+<p>(<a href="https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p class="has-small-font-size"><em>Our partners:</em></p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://nocomplexity.com/" target="_blank" rel="https://nocomplexity.com/ noopener"><img loading="lazy" decoding="async" width="501" height="77" src="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png" alt="nocomplexity" class="wp-image-4527" srcset="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png 501w, https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner-300x46.png 300w" sizes="auto, (max-width: 501px) 100vw, 501px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.bm-support.org/"><img loading="lazy" decoding="async" width="251" height="89" src="https://nocomplexity.com/wp-content/uploads/2022/01/ROI_logo.png" alt="" class="wp-image-4559"/></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-thumbnail is-resized wp-duotone-grayscale"><a href="https://nocomplexity.com/ads-and-sponsoring/"><img loading="lazy" decoding="async" width="150" height="150" src="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png" alt="" class="wp-image-4634" style="object-fit:cover;width:100px;height:90px" srcset="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png 150w, https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background no-border-radius" href="https://nocomplexity.com/documents/securityarchitecture/introduction.html" style="background-color:#ff0000">Use the Open Security Reference Architecture</a></div>
+</div>
+
+
+
+<p class="has-background has-small-font-size" style="background-color:#d3d7db">The Open Security newsletter is an overview of cyber security news with a core focus on openness. Pointing out what went wrong after a cyber security breach is easy. Designing good and simple measurements is hard. So join the open <a href="https://nocomplexity.com/documents/securityarchitecture/introduction.html">Security Reference Architecture</a> collaboration project to create better solutions together. Or <a href="https://nocomplexity.com/ads-and-sponsoring/">become a partner</a> to support this project. Use our <a rel="noreferrer noopener" href="https://nocomplexity.com/rss2" target="_blank">RSS</a> or <a rel="noreferrer noopener" href="https://nocomplexity.com/atom" target="_blank">ATOM</a> feed to follow Open Security News.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open Security News week 8-2025</title>
+		<link>https://nocomplexity.com/security-news-week-8-2025/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2025 18:15:50 +0000</pubDate>
+				<category><![CDATA[Security News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4738</guid>
+
+					<description><![CDATA[Cyber security is a key quality aspect that can not be integrated later in a product. You can not create a better security architecture when your product is finished. Security is a core product quality aspect that can not be added later. Security should be seen as a foundation quality aspect that is developed in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Cyber security is a key quality aspect that can not be integrated later in a product. You can not create a better security architecture when your product is finished. Security is a core product quality aspect that can <strong>not</strong> be added later. Security should be seen as a foundation quality aspect that is developed in parallel with your new product. You don’t have to be a genius to make cyber security simpler and better. Continuous learning is key!</p>
+
+
+
+<span id="more-4738"></span>
+
+
+
+<h2 class="wp-block-heading">1 Google’s policy change on fingerprinting</h2>
+
+
+
+<p>Google is not nice when it comes to privacy. The recent change in policy should again be another reason to search harder for <a href="https://nocomplexity.com/documents/simplifyprivacy/tools/overview.html#overview" target="_blank" rel="noreferrer noopener">alternatives</a>. The UK Information Commissioners Office (ICO) is rather clear. Check their statement!</p>
+
+
+
+<p>(<a href="https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">2 The SON OF ROW HAMMER</h2>
+
+
+
+<p>The words &#8220;row hammer&#8221; should make you scared. This new technique on flipping bits in DRAM is definitely worrying! </p>
+
+
+
+<p>(<a href="https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/#p3" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">3 PostgreSQL Encryption: The Available Options</h2>
+
+
+
+<p>By default database encryption is still optional at installation. This is a choice. This short (old)blog summarizes again the trivial options. Encryption is a must. The &#8216;How&#8217; is your choice!</p>
+
+
+
+<p>(<a href="https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">4 Security Analysis of WeChat’s MMTLS Encryption Protocol</h2>
+
+
+
+<p>For everyone who has an unhealthy interest in Cyber Security: This is a very good (technical)report to read. It has been discussed by many. So form your own opinion. Some conclusions can be no surprise &#8216;apps in the Chinese ecosystem fail to adopt cryptographic best practices, opting instead to invent their own, often problematic systems&#8217;. My advice is: Avoid apps at all if you can!</p>
+
+
+
+<p>(<a href="https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">5 CVE-2023-27997 Is Exploitable, and 69% of FortiGate Firewalls Are Vulnerable</h2>
+
+
+
+<p>There is a reason why I <a href="https://nocomplexity.com/documents/reports/SimplifySecurity.pdf">advocate</a> to use simple FOSS solutions.This is another example. So replace or update your firewall, the CVE is just 2 years old and new CVEs will come in the near future.</p>
+
+
+
+<p>(<a href="https://bishopfox.com/blog/cve-2023-27997-exploitable-fortigate-vulnerable" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">6 Reviewing the Cryptography Used by Signal</h2>
+
+
+
+<p>Very nice blog aka audit report. The outcome: &#8216;no vulnerabilities were found&#8217;. But mind, Signal is not perfect and risks are always present!<br>(<a href="https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/" target="_blank" rel="noreferrer noopener"> link </a>)</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">7 US government struggles to rehire nuclear safety staff it laid off days ago</h2>
+
+
+
+<p>Good Cyber Security is crucial for safety. So when people with the right knowledge are gone we all should be worried.</p>
+
+
+
+<p> <br>(<a href="https://www.bbc.com/news/articles/c4g3nrx1dq5o" target="_blank" rel="noreferrer noopener"> link </a>)</p>
+
+
+
+<h2 class="wp-block-heading">8 Key trends in global cybersecurity research: growth, leaders, dark horses</h2>
+
+
+
+<p>Continuous research on Cyber is vital to prevent future risks. This article gives a nice overview of current research trends. It will be of no surprise that ML/AI Security is currently a very attractive field of research.</p>
+
+
+
+<p><br>(<a href="https://eto.tech/blog/key-trends-global-cybersecurity-research/" target="_blank" rel="noreferrer noopener"> link </a>)</p>
+
+
+
+<h2 class="wp-block-heading">9 Passkey technology is elegant, but it&#8217;s most definitely not usable security</h2>
+
+
+
+<p>Using the same password everywhere is easy, but in an age of mass data breaches and precision-orchestrated phishing attacks, it&#8217;s also a disaster in the making.</p>
+
+
+
+<p><br>(<a href="https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/" target="_blank" rel="noreferrer noopener"> link </a>)</p>
+
+
+
+<p class="has-small-font-size"><em>Our partners:</em></p>
+
+
+
+<p class="has-small-font-size"></p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://nocomplexity.com/" target="_blank" rel="https://nocomplexity.com/ noopener"><img loading="lazy" decoding="async" width="501" height="77" src="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png" alt="nocomplexity" class="wp-image-4527" srcset="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png 501w, https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner-300x46.png 300w" sizes="auto, (max-width: 501px) 100vw, 501px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.bm-support.org/"><img loading="lazy" decoding="async" width="251" height="89" src="https://nocomplexity.com/wp-content/uploads/2022/01/ROI_logo.png" alt="" class="wp-image-4559"/></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-thumbnail is-resized wp-duotone-grayscale"><a href="https://nocomplexity.com/ads-and-sponsoring/"><img loading="lazy" decoding="async" width="150" height="150" src="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png" alt="" class="wp-image-4634" style="object-fit:cover;width:100px;height:90px" srcset="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png 150w, https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background no-border-radius" href="https://nocomplexity.com/documents/securityarchitecture/introduction.html" style="background-color:#ff0000">Use the Open Security Reference Architecture</a></div>
+</div>
+
+
+
+<p class="has-background has-small-font-size" style="background-color:#d3d7db">The Open Security newsletter is an overview of cyber security news with a core focus on openness. Pointing out what went wrong after a cyber security breach is easy. Designing good and simple measurements is hard. So join the open <a href="https://nocomplexity.com/documents/securityarchitecture/introduction.html">Security Reference Architecture</a> collaboration project to create better solutions together. Or <a href="https://nocomplexity.com/ads-and-sponsoring/">become a partner</a> to support this project. Use our <a rel="noreferrer noopener" href="https://nocomplexity.com/rss2" target="_blank">RSS</a> or <a rel="noreferrer noopener" href="https://nocomplexity.com/atom" target="_blank">ATOM</a> feed to follow Open Security News.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open ML/AI News week 7-2025</title>
+		<link>https://nocomplexity.com/open-ml-news-week-7-2025/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2025 17:10:05 +0000</pubDate>
+				<category><![CDATA[Machine Learning News]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4734</guid>
+
+					<description><![CDATA[General accepted definitions for open ML/AI are a must for Free and Open ML / AI systems and software. But despite several attempts there is still no general de facto accepted definition for ML/AI software and applications. The OSI Open Source AI Definition is not perfect. It is and was heavily criticized. However it is [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">General accepted definitions for open ML/AI are a must for Free and Open ML / AI systems and software. But despite several attempts there is still no general de facto accepted definition for ML/AI software and applications. The <a href="https://nocomplexity.com/documents/fossml/openmldefinition.html#the-osi-the-open-source-ai-definition-1-0" target="_blank" rel="noreferrer noopener">OSI Open Source AI Definition</a> is not perfect. It is and was heavily criticized. However it is a first step towards a better definition.</p>
+
+
+
+<span id="more-4734"></span>
+
+
+
+<h2 class="wp-block-heading">1 Prompt Injections</h2>
+
+
+
+<p>Using LLMs with prompts is not without security risks. This is a nice short blog on visual prompt injection attack and how to recognize it.</p>
+
+
+
+<p>(<a href="https://www.lakera.ai/blog/visual-prompt-injections" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">2 The Failed Strategy of Artificial Intelligence Doomers</h2>
+
+
+
+<p>New possibilities of LLMs are continuous threatened. Often by governments, scientist but often by people who are afraid of new technology and its impact on humans. This is an absolute must read article about the so called Foundations and coalitions that preach for safe or better AI. To avoid misunderstandings: I preach for<a href="https://nocomplexity.com/documents/fossml/openmldefinition.html#open-ml-ai-definitions"> open ML/AI</a>. But I do not want to be in the camp of the &#8216;Doomers&#8217;.</p>
+
+
+
+<p>(<a href="https://www.palladiummag.com/2025/01/31/the-failed-strategy-of-artificial-intelligence-doomers/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">3 Demos featuring the latest AI research from Meta</h2>
+
+
+
+<p>I love the openness of Meta research and the products they developed with a FOSS license. But I dislike their shitty products that kill privacy and the lack of moral towards society. Playing with this demos is fun and gives nice insights.</p>
+
+
+
+<p>(<a href="https://aidemos.meta.com/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">4 The Human Cost Of Our AI-Driven Future</h2>
+
+
+
+<p>The current progress on ML/AI and especially LLMs has a very high cost. Data workers in the most horrible places on earth do the hard and dirty work. When you preach for doing more with current LLM technology, you should read this horrible story. The news is not new but the misery is still going on outside our view.</p>
+
+
+
+<p>(<a href="https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">5 AI you can trust</h2>
+
+
+
+<p>Easily summarize emails, docs, articles, and videos across the web — without sacrificing your privacy. This sounds to good to be true. But its from Mozilla. A trusted party when it comes to Internet privacy. So check it out!</p>
+
+
+
+<p>(<a href="https://orbitbymozilla.com/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">6 The impact of Machine Learning models on the Web</h2>
+
+
+
+<p>AI systems have a systemic impact on the Web. But what about future Web Standards to steer the impact? This report is published by W3C, the consortium that develops standards and guidelines for the web. So an interesting read! </p>
+
+
+
+<p>(<a href="https://www.w3.org/reports/ai-web-impact/" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">7 TinyLlama: An Open-Source Small Language Model</h2>
+
+
+
+<p>FOSS AI/ML means doing more with less. So without large investments everyone can create a mind blowing LLM. This research work helps. Maybe DeepSeek used parts of this research?</p>
+
+
+
+<p>(<a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">8 The Impact of Generative AI on Critical Thinking</h2>
+
+
+
+<p>Nice research paper of MS on the impact of Generative AI for knowledge workers and the impact on critical thinking skills and practices.</p>
+
+
+
+<p>(<a href="https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<h2 class="wp-block-heading">9 AI is Killing How Developers Learn. Here&#8217;s How to Fix It</h2>
+
+
+
+<p>Foundational knowledge is crucial for making systems and software work. Programming is thinking. But AI tools do not simulate thinking. In the old days you could search for &#8216;copy-paste&#8217; code from StackOverflow in code bases. Times change. But real professional system development for complex system is not yet possible with using LLMs. But it can help if you really know what you are doing.</p>
+
+
+
+<p>(<a href="https://nmn.gl/blog/ai-and-learning" target="_blank" rel="noreferrer noopener">Link</a>)</p>
+
+
+
+<p class="has-small-font-size"><em>Our partners:</em></p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://nocomplexity.com/" target="_blank" rel="https://nocomplexity.com/ noopener"><img loading="lazy" decoding="async" width="501" height="77" src="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png" alt="nocomplexity" class="wp-image-4527" srcset="https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner.png 501w, https://nocomplexity.com/wp-content/uploads/2021/03/nocxbanner-300x46.png 300w" sizes="auto, (max-width: 501px) 100vw, 501px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.bm-support.org/"><img loading="lazy" decoding="async" width="251" height="89" src="https://nocomplexity.com/wp-content/uploads/2022/01/ROI_logo.png" alt="" class="wp-image-4559"/></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-thumbnail is-resized wp-duotone-grayscale"><a href="https://nocomplexity.com/ads-and-sponsoring/"><img loading="lazy" decoding="async" width="150" height="150" src="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png" alt="" class="wp-image-4634" style="object-fit:cover;width:100px;height:90px" srcset="https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-150x150.png 150w, https://nocomplexity.com/wp-content/uploads/2023/07/your-logo-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></figure>
+</div>
+</div>
+</div>
+
+
+
+<p class="has-background has-small-font-size has-very-light-gray-background-color"><em>The FOSS Machine Learning News Blog is a brief overview of  open machine learning news from all over the world. Free and Open machine learning means that everyone must be able to develop, test and play and deploy machine learning solutions. Read and share the <a href="https://nocomplexity.com/foss-ml/" target="_blank" rel="noreferrer noopener">FOSS ML Guide</a>! And remember:You are invited to join the<a rel="noreferrer noopener" href="https://github.com/nocomplexity/FreeAndOpenMachineLearning" target="_blank"> Free and Open Machine Learning </a>open collaboration project.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Simplify Python</title>
+		<link>https://nocomplexity.com/simplifypython/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 09:47:51 +0000</pubDate>
+				<category><![CDATA[Information Technology]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4698</guid>
+
+					<description><![CDATA[This book is NOT another Python learning book. This book simplifies software development using the Python programming language. So with all key references included that professional programmers use. This Playbook is created to be used daily. Read and use this (free) Python Book now! It is created to support you faster and better with solving [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">This book is <em>NOT </em>another Python learning book. This book simplifies software development using the Python programming language. So with all key references included that professional programmers use. This Playbook is created to be used daily.</p>
+
+
+
+<span id="more-4698"></span>
+
+
+
+<p>Read and use this (free) Python Book now! It is created to support you faster and <strong>better</strong> with solving problems with Python than any AI chat bot can do today.</p>
+
+
+
+<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-03627597 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-width wp-block-button__width-75 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-background wp-element-button" href="https://nocomplexity.com/documents/pythonbook/introduction.html" style="border-radius:0px;background-color:#ff0000" target="_blank" rel="noreferrer noopener">Read this (free) Python Book now!</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Support this project</h2>
+
+
+
+<p>If you think this Simplify Python PlayBook is worth a few Euros, you can make a payment. This money will help to keep this guide maintained. If you are not able to make a small donation, it’s fine. Just enjoy this PlayBook and Share the word about it! </p>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-width wp-block-button__width-50 has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-vivid-cyan-blue-background-color has-background wp-element-button" href="https://buy.stripe.com/aEUaIrcrX519cJa3cc" target="_blank" rel="noreferrer noopener">Make a donation to support this Playbook</a></div>
+</div>
+
+
+
+<p>Or use this QR-code:</p>
+
+
+
+<figure class="wp-block-image aligncenter size-medium"><a href="https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate.png"><img loading="lazy" decoding="async" width="250" height="300" src="https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate-250x300.png" alt="Stripe QR code for donations" class="wp-image-4699" srcset="https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate-250x300.png 250w, https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate-854x1024.png 854w, https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate-768x921.png 768w, https://nocomplexity.com/wp-content/uploads/2025/01/qr_aEUaIrcrX519cJa3cc_simplifyPythonDonate.png 880w" sizes="auto, (max-width: 250px) 100vw, 250px" /></a></figure>
+
+
+
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://nocomplexity.com/documents/pythonbook/introduction.html"><img loading="lazy" decoding="async" width="417" height="145" src="https://nocomplexity.com/wp-content/uploads/2025/01/simplifyPython_logo.png" alt="" class="wp-image-4700" style="width:316px;height:auto" srcset="https://nocomplexity.com/wp-content/uploads/2025/01/simplifyPython_logo.png 417w, https://nocomplexity.com/wp-content/uploads/2025/01/simplifyPython_logo-300x104.png 300w" sizes="auto, (max-width: 417px) 100vw, 417px" /></a></figure>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pushing complexity to users</title>
+		<link>https://nocomplexity.com/pushing-complexity-to-users/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 16:30:08 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Information Technology]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Complexity]]></category>
+		<category><![CDATA[Simple]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4694</guid>
+
+					<description><![CDATA[Creating simple IT solutions is challenging, but that doesn’t mean your product has to be difficult to use. Too often, we are confronted with seemingly simple tasks like creating a document, ordering a ticket, booking a hotel, or completing a mandatory government form online. Why do these simple tasks turn out to be a nightmare [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Creating simple IT solutions is challenging, but that doesn’t mean your product has to be difficult to use. Too often, we are confronted with seemingly simple tasks like creating a document, ordering a ticket, booking a hotel, or completing a mandatory government form online. Why do these simple tasks turn out to be a nightmare and time sink?&nbsp;</p>
+
+
+
+<span id="more-4694"></span>
+
+
+
+<p><br>So too often I wonder about these simple tasks: Why is the software so complex? Why am I, as end-user, forced to deal with pointless complexity?</p>
+
+
+
+<p>When I use commercial or FOSS software I don’t want:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Install an unnecessary mobile app. I like to do simple things just with a simple web browser.</li>
+
+
+
+<li>Provide personal details that are irrelevant. Asking for personal information should and is not needed when I just want to order a simple ticket for an event. Forcing me to accept your privacy policy when I just want to book a train ticket should never ever be needed. Just not misuse and sell my personal data.</li>
+
+
+
+<li>Be restricted in my choice of browser, operating system, or email program. Yes, there are many people around that just just plain text email. This avoids a lot of html tracking and unnecessary downloads of images for email layout that never works with a simple email program.</li>
+
+
+
+<li>Be confronted with many options that I do not need to perform a task as quick as possible.</li>
+</ul>
+
+
+
+<p>Security and privacy are much harder to implement correctly in complex software. Simpler software inherently reduces security risks.</p>
+
+
+
+<p>So if you develop some kind of web application on the internet, the less data is transferred over the internet the simpler the application should become. This also reduces energy usage which has a lot of advantages if we all are a bit more aware of this.</p>
+
+
+
+<p>Great features are difficult to build but should be effortless to use—not the other way around.</p>
+
+
+
+<p>Preventing and avoiding complexity in software products is not easy. To help you with this difficult task, make use of a good design and use simple good tools. The&nbsp; <a href="https://nocomplexity.com/documents/arplaybook/introduction.html">Architecture Playbook</a>  is a collection of tools that bring real value when creating simple products.&nbsp; Additionally, check out the tips and tools in the <a href="https://nocomplexity.com/simplifyit/" data-type="post" data-id="4692">Simplify IT Playbook</a>.</p>
+
+
+
+<p class="has-text-align-center has-text-color has-link-color has-x-large-font-size wp-elements-00464bd79c8a7a65712ed72703fbe078" style="color:#ff0000;font-style:italic;font-weight:600">There’s no excuse for not trying to eliminate complexity!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Simplify IT</title>
+		<link>https://nocomplexity.com/simplifyit/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 16:20:29 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Information Technology]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Simple]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4692</guid>
+
+					<description><![CDATA[Nobody ever asks for a complex IT solution. We all love simple IT solutions. The art and science towards simpler IT solutions. This is an eBook with proven scientific tools and frameworks to help you effectively solve complex IT problems and gain a comprehensive understanding of IT systems in a business context. You can download [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Nobody ever asks for a complex IT solution. We all love simple IT solutions.</p>
+
+
+
+<span id="more-4692"></span>
+
+
+
+<blockquote class="wp-block-quote has-large-font-size is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-text-align-center has-text-color has-link-color has-medium-font-size wp-elements-43ebe73c8398ad87ed21294cf032c1a0" style="color:#ff0000">The art and science towards simpler IT solutions.</p>
+</blockquote>
+
+
+
+<p>This is an eBook with <em>proven</em> scientific tools and frameworks to help you effectively solve complex IT problems and gain a comprehensive understanding of IT systems in a business context.</p>
+
+
+
+<p>You can download and buy this great eBook from our <a href="https://nocomplexity.gumroad.com/l/simplifyIT">shop</a>. <strong><em>You pay what you want!</em></strong></p>
+
+
+
+<p>But before buying you can view or even download this eBook here below:</p>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div data-wp-interactive="core/file" class="wp-block-file aligncenter"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://nocomplexity.com/wp-content/uploads/2025/01/SimplifyIT.pdf" type="application/pdf" style="width:100%;height:800px" aria-label="Embed of SimplifyIT."></object><a id="wp-block-file--media-c8bed68d-8030-4301-915a-daf6d9a3680a" href="https://nocomplexity.com/wp-content/uploads/2025/01/SimplifyIT.pdf">SimplifyIT</a><a href="https://nocomplexity.com/wp-content/uploads/2025/01/SimplifyIT.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-c8bed68d-8030-4301-915a-daf6d9a3680a">Download</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Finding duplicates in a collection: A solved problem!</title>
+		<link>https://nocomplexity.com/finding-duplicates/</link>
+		
+		<dc:creator><![CDATA[Maikel Mardjan]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 20:02:31 +0000</pubDate>
+				<category><![CDATA[Information Technology]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Simple]]></category>
+		<guid isPermaLink="false">https://nocomplexity.com/?p=4690</guid>
+
+					<description><![CDATA[We all have used Ms Excel. Or still do. Companies love Ms Excel or store information in databases. A common challenge is: How to find duplicate row items? Like names that occur multiple times in an administration or other elements you collected. Sometimes it makes sense or it is a MUST DO to find duplicates [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We all have used Ms Excel. Or still do. Companies love Ms Excel or store information in databases.</p>
+
+
+
+<p>A common challenge is: How to find duplicate row items?</p>
+
+
+
+<span id="more-4690"></span>
+
+
+
+<p> Like names that occur multiple times in an administration or other elements you collected.  Sometimes it makes sense or it is a MUST DO to find duplicates in a collection. With Ms Excel, Google Sheet or <a href="https://www.libreoffice.org/" target="_blank" rel="noreferrer noopener nofollow">LibreOffice</a> this simple thing turns out not to be simple at all! </p>
+
+
+
+<p>Finding duplicates is and should be a solved problem. However many stubborn software engineers will not hesitate to solve it without using proven methods. Methods that are proven since these problems by theory and years of practice and failures.</p>
+
+
+
+<p>Creating failure proof software and IT problems is complex. Even for a simple problem such as finding duplicates in a collection.</p>
+
+
+
+<p>Simple ways to do this in Python are for example:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use the Python ‘set’ method. </li>
+
+
+
+<li>Make use of the fact that in Python dictionaries, keys must be unique.</li>
+
+
+
+<li>Use the pandas.DataFrame.duplicated API call. This call does a lot of heavy lifting for you!</li>
+
+
+
+<li>Use a built-in method that comes with your FOSS database.</li>
+</ul>
+
+
+
+<p>Creating a function to report duplicates is simple. But it gets more complex if the following requirements apply:</p>
+
+
+
+<ul class="wp-block-list">
+<li>It must be fail-safe. Power of systems and even Cloud environments have interruptions. So use an algorithm  that is resilient against hardware failures and software failures.</li>
+
+
+
+<li>Performance can be a thing. E.g. if you need to check more than 100M rows within 2 seconds. Yes: These types of requirements do exist!</li>
+
+
+
+<li>Security and Privacy: Often data is not meant to be seen or used by everyone. So making sure this keeps this way, even with data cleaning tasks, is often not simple.</li>
+
+
+
+<li>Requirements will change: First you check for duplicate rows, then you are asked to check for only duplicate row fields, like ‘names’  or addresses.</li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/ACID" target="_blank" rel="noreferrer noopener nofollow">ACID</a> requirements can become important.</li>
+</ul>
+
+
+
+<p>Most AI tools will give you quick solutions. However: These solutions are seldom good enough and function correct for edge cases. And edge cases will happen, most data collections have edge cases that are undetected by bad software. And be aware: system failures are inevitable and infrastructure you use  (e.g. networks, SaaS environments) will break. So always <a href="https://nocomplexity.com/business/">keep thinking</a>! </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

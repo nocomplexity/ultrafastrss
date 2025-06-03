@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Velocidex/velociraptor/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Velocidex/velociraptor/commits/master.atom"/>
+  <title>Recent Commits to velociraptor:master</title>
+  <updated>2025-05-06T07:40:09Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99dba703bfeecce3ad1b265d175ab11e5f1eb656</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/99dba703bfeecce3ad1b265d175ab11e5f1eb656"/>
+    <title>
+        Bugfixes: Fix build and VQL Memory limit bug (#4223)
+    </title>
+    <updated>2025-05-06T07:40:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfixes: Fix build and VQL Memory limit bug (#4223)
+
+Also added Flat support to VMDK&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fe670b27ed46735d164e32a34c0220e5607e99db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/fe670b27ed46735d164e32a34c0220e5607e99db"/>
+    <title>
+        Update Memory Acquisition artifact to store driver in user directory …
+    </title>
+    <updated>2025-05-05T12:12:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Memory Acquisition artifact to store driver in user directory  (#4221)
+
+Windows refuses to load the driver from a directory with spaces in
+it. This change allows the driver to load from the more usual
+location.
+
+---------
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;
+Co-authored-by: snyk-bot &amp;lt;snyk-bot@snyk.io&amp;gt;
+Co-authored-by: dependabot[bot] &amp;lt;49699333+dependabot[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f1c0bc6a4066ba3709ae3769f0e26e3ea8d040e8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/f1c0bc6a4066ba3709ae3769f0e26e3ea8d040e8"/>
+    <title>
+        Update security.md (#4219)
+    </title>
+    <updated>2025-05-02T04:53:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/35263248?s=30&amp;v=4"/>
+    <author>
+      <name>c-f</name>
+      <uri>https://github.com/c-f</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update security.md (#4219)
+
+Hi, 
+
+i updated the security key, since the old gpg key was expired. The
+information was taken from
+https://www.rapid7.com/.well-known/security.txt
+
+- [x] formatted security info
+- [x] updated encryption fingerprint
+
+Best regards,
+c-f
+
+#### Sidenote
+The security.txt of rapid7 contains more information. I was not sure, if
+i should submit the complete security.txt or not (seen below).
+
+Link: https://www.rapid7.com/.well-known/security.txt
+```
+Contact Security Team: security@rapid7.com
+Abuse Contact: abuse@rapid7.com
+Encryption key: https://keys.openpgp.org/search?q=396F6DCA9B60EB1AF2D1621FA885DF1431A0A489
+Preferred Languages: en
+Canonical: https://www.rapid7.com/.well-known/security.txt
+Vulnerability Disclosure Policy: https://www.rapid7.com/security/vulnerability-disclosure-policy/
+Report a Vulnerability in a Rapid7 Product or Service: https://rapid7.freshdesk.com/support/tickets/new?ticket_form=vulnerability_disclosure
+Careers: https://careers.rapid7.com/careers-home
+Blog: https://www.rapid7.com/blog/
+```&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ab2cf238ce4c75c7af69e645e317270106960fb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/5ab2cf238ce4c75c7af69e645e317270106960fb"/>
+    <title>
+        Added VQL functions to manipulate secrets. (#4215)
+    </title>
+    <updated>2025-04-29T05:44:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added VQL functions to manipulate secrets. (#4215)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fe4a5e0a579d78d003eb77161ab716fd6e87cc7a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/fe4a5e0a579d78d003eb77161ab716fd6e87cc7a"/>
+    <title>
+        Giving default folder Read &amp; Traverse permissions in Darwin installer…
+    </title>
+    <updated>2025-04-28T11:37:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2811785?s=30&amp;v=4"/>
+    <author>
+      <name>wietze</name>
+      <uri>https://github.com/wietze</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Giving default folder Read &amp;amp; Traverse permissions in Darwin installer (#4204)
+
+# Background
+The default folder for Darwin installers is `/usr/local/sbin` as per
+https://github.com/Velocidex/velociraptor/blob/a5abaee504234366a0ebe2eb114d0e02019f38d5/docs/references/server.config.yaml#L278.
+This folder does not exist by default on MacOS. 
+Currently the installer will create it with if it is not present upon
+installation, with 0700 permissions (=only root can read, write and
+traverse; everyone else can&amp;#39;t do anything).
+
+As per [best
+practices](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s16.html):
+&amp;gt; Locally-installed system administration programs should be placed into
+`/usr/local/sbin`.
+&amp;gt; (...)
+&amp;gt; We recommend that users have read and execute permission for
+everything in `/sbin` except, perhaps, certain setuid and setgid
+programs.
+&amp;gt; The division between `/bin` and `/sbin` was not created for security
+reasons or to prevent users from seeing the operating system, but to
+provide a good partition between binaries that everyone uses and ones
+that are primarily used for administration tasks.
+&amp;gt; There is no inherent security advantage in making `/sbin` off-limits
+for users.
+
+# Proposed solution
+Change the permissions to 0755, which preserves the current rights for
+root, but allows other users to traverse and read without obstruction.
+
+This is in line with best practices and ensures it doesn&amp;#39;t interfere
+with other tools interacting with this folder.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1543bef34a4e526b182f5602ea99ad00ca0639af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/1543bef34a4e526b182f5602ea99ad00ca0639af"/>
+    <title>
+        Bugfix: Allows azure authenticator to use the proxy setting. (#4214)
+    </title>
+    <updated>2025-04-28T09:16:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Allows azure authenticator to use the proxy setting. (#4214)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cda0eb7672b566f04a4bb70a2c8cd0f8cedff3a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/cda0eb7672b566f04a4bb70a2c8cd0f8cedff3a1"/>
+    <title>
+        Delay flow error until the flow is completed. (#4210)
+    </title>
+    <updated>2025-04-27T13:35:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delay flow error until the flow is completed. (#4210)
+
+Prevously the flow state was set to error as soon as a log was issued at
+level ERROR however the query continued running until the end. This
+caused the GUI to disable the cancel button so it was impossible to
+cancel the flow.
+
+This PR Keeps the flow at the IN_PROGRESS state until completion while
+tagging the error message in the flow. This allows the flow to be
+cancelled after the error by the GUI. After completion the flow will be
+switched to the ERROR state.
+
+Also:
+1. Fix Registry accessor parsing of MULTI_SZ fields.
+2. Fix Generic.Client.Profile artifact
+3. Refactor tests to use the global mock clock&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5abaee504234366a0ebe2eb114d0e02019f38d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/a5abaee504234366a0ebe2eb114d0e02019f38d5"/>
+    <title>
+        Keep record of finished flows in client&#39;s flow manager. (#4202)
+    </title>
+    <updated>2025-04-22T12:35:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Keep record of finished flows in client&amp;#39;s flow manager. (#4202)
+
+This allows profiles to see the status of recent flows that have
+completed. It also addresses the issue of the in flight checks checking
+the flow status after it has completed. The client will keep records of
+past flows and simply return the exit status of those flows when asked.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6c27e7e2ea509c76201b64431ba71b0c3b7a2758</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/6c27e7e2ea509c76201b64431ba71b0c3b7a2758"/>
+    <title>
+        Avoid I/O after deleting client flows (#4179)
+    </title>
+    <updated>2025-04-22T11:23:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/173211?s=30&amp;v=4"/>
+    <author>
+      <name>hillu</name>
+      <uri>https://github.com/hillu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Avoid I/O after deleting client flows (#4179)
+
+Commit 786e65604260c7ad880874cc3d43d7dcb95a8ff9 introduced a background
+job for updating client flow indices after deleting flows.
+This background job always constructed indices from scratch, leading to
+slow I/O in a master/minion setup backed by Amazon EFS.
+
+This PR allows individual flow IDs to be passed to the background job so
+it can simply filter them out from the index files, similar to the path
+taken when `delete_flow( … , sync = true )` is called.
+
+---------
+
+Co-authored-by: Mike Cohen &amp;lt;mike@velocidex.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/22f8245dfe0b93d818acdbbb2e66791ffc2c06e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/22f8245dfe0b93d818acdbbb2e66791ffc2c06e5"/>
+    <title>
+        Fixed tests
+    </title>
+    <updated>2025-04-22T05:49:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3f050cdae7d0e61ccf7e631daa2cb001a2db9c2d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/3f050cdae7d0e61ccf7e631daa2cb001a2db9c2d"/>
+    <title>
+        Bugfix: Allow API client to push events without high permissions.
+    </title>
+    <updated>2025-04-22T05:49:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Allow API client to push events without high permissions.
+
+Previously API clients had to have the MACHINE_STATE
+permissions (i.e. had to be admins) to write events over the
+API. However, the user only needed the PublishQueues permission in the
+VQL send_event() function.
+
+This PR brings the code into more consistency:
+
+1. Deprecate the old WriteEvent() API in favor of the PushEvent()
+
+2. Allow permission checks against the PublishQueues field in the
+   user&amp;#39;s policy. This allows a user to push events with any
+   permissions (e.g. they dont event need &amp;quot;reader&amp;quot;). This is useful
+   for setting up scripts with very low permissions who are still able
+   to push events to Velociraptor.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bd0017a76271a8ede39f2661af26de9efb9d3c58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/bd0017a76271a8ede39f2661af26de9efb9d3c58"/>
+    <title>
+        Bugfix: Move atomic fields to the start of the struct (#4197)
+    </title>
+    <updated>2025-04-19T23:30:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Move atomic fields to the start of the struct (#4197)
+
+This maintains alignment on 32 bit platforms.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a53a69328d2f8ca83eabac38009d8507c50be3bf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/a53a69328d2f8ca83eabac38009d8507c50be3bf"/>
+    <title>
+        Bugfix: Implement better elastic index sanitization (#4196)
+    </title>
+    <updated>2025-04-19T12:09:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Implement better elastic index sanitization (#4196)
+
+The previous sanitization method was too simplistic preventing the use
+of some index patterns.
+
+Also implemented keyword parameters in Artifact plugin&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3de202739fa04af1e519298a08fa464b3a733e74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/3de202739fa04af1e519298a08fa464b3a733e74"/>
+    <title>
+        Bugfix: Do not complete collection on error.  (#4194)
+    </title>
+    <updated>2025-04-18T23:00:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Do not complete collection on error.  (#4194)
+
+The client will fail a collection when there is a log message at ERROR
+level. Previously this tagged the collection as completed (with an
+error). This means no further status was sent to the server. However,
+the VQL continues running and sending back results.
+
+This leaves the collection in an inconsistent state - the total count
+of rows is incorrect, as more rows are still actually collected by the
+client. The GUI may not show the correct results collected.
+
+This PR does not consider an error to be represent the completion of
+the collection - stat updates continue to be sent until the collection
+is really finished.
+
+---------
+
+Co-authored-by: snyk-bot &amp;lt;snyk-bot@snyk.io&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f082efe463a052b5bb663c9c8f13f106511ad316</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/f082efe463a052b5bb663c9c8f13f106511ad316"/>
+    <title>
+        Bump http-proxy-middleware from 2.0.7 to 2.0.9 in /gui/velociraptor (…
+    </title>
+    <updated>2025-04-18T14:20:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump http-proxy-middleware from 2.0.7 to 2.0.9 in /gui/velociraptor (#4193)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1dbc9e0de8e7c9d546933d1e89a2faf752af8aef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/1dbc9e0de8e7c9d546933d1e89a2faf752af8aef"/>
+    <title>
+        Bugfix: Close tempfile before removing (#4191)
+    </title>
+    <updated>2025-04-18T13:59:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Close tempfile before removing (#4191)
+
+When setting the temp directory, Velociraptor attempts to create a
+temp file in this directory to test it, and then removes it. However
+on Windows, the file is not removed because Velociraptor did not close
+it first. This leads to tempfile pollution.
+
+---------
+
+Signed-off-by: dependabot[bot] &amp;lt;support@github.com&amp;gt;
+Co-authored-by: dependabot[bot] &amp;lt;49699333+dependabot[bot]@users.noreply.github.com&amp;gt;
+Co-authored-by: snyk-bot &amp;lt;snyk-bot@snyk.io&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/62bb7709c55d7dd316231643ed56ed480cf1b87e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/62bb7709c55d7dd316231643ed56ed480cf1b87e"/>
+    <title>
+        Bugfix: Fixed bug in Server.Orgs.NewOrg
+    </title>
+    <updated>2025-04-17T09:42:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: Fixed bug in Server.Orgs.NewOrg&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9097291080c9777c2748c86a6b9e1a733c7b74fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/9097291080c9777c2748c86a6b9e1a733c7b74fc"/>
+    <title>
+        fix syntax error in pattern of TempFile
+    </title>
+    <updated>2025-04-17T00:51:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/35263248?s=30&amp;v=4"/>
+    <author>
+      <name>c-f</name>
+      <uri>https://github.com/c-f</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix syntax error in pattern of TempFile&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f9bf853b591e8de845836ffbddca6c4e70a55628</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/f9bf853b591e8de845836ffbddca6c4e70a55628"/>
+    <title>
+        Set the user avatar in the datastore (#4180)
+    </title>
+    <updated>2025-04-16T03:54:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3856546?s=30&amp;v=4"/>
+    <author>
+      <name>scudette</name>
+      <uri>https://github.com/scudette</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Set the user avatar in the datastore (#4180)
+
+Previously we added the token in the cookie which would make the cookie
+too large. This PR sets the user avatar in the datastore during the
+oauth step so it can be retrieved from there instead of the cookie each
+time. This keeps the cookie smaller.
+
+Fixes: #4177&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cffeae708d886d973d24ab3efccff71b48b6cdf5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Velocidex/velociraptor/commit/cffeae708d886d973d24ab3efccff71b48b6cdf5"/>
+    <title>
+        Bump github.com/gorilla/csrf from 1.6.2 to 1.7.3 (#4176)
+    </title>
+    <updated>2025-04-15T15:54:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/29110?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot</name>
+      <uri>https://github.com/dependabot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump github.com/gorilla/csrf from 1.6.2 to 1.7.3 (#4176)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

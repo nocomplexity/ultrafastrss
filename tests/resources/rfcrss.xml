@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Recent RFCs</title>
+		<link>https://www.rfc-editor.org/</link>
+		<description>Recently published RFCs</description>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 23 Apr 2025 14:01:37 -0700</lastBuildDate>
+			<item>
+		<title>RFC 9728: OAuth 2.0 Protected Resource Metadata</title>
+		<link>https://www.rfc-editor.org/info/rfc9728</link>
+		<description>This specification defines a metadata format that an OAuth 2.0 client
+or authorization server can use to obtain the information needed to
+interact with an OAuth 2.0 protected resource.</description>
+	</item>
+			<item>
+		<title>RFC 9766: Extensions for Weak Cache Consistency in NFSv4.2's Flexible File Layout</title>
+		<link>https://www.rfc-editor.org/info/rfc9766</link>
+		<description>This document specifies extensions to NFSv4.2 for improving Weak
+Cache Consistency (WCC).  These extensions introduce mechanisms that
+ensure partial writes performed under a Parallel NFS (pNFS) layout
+remain coherent and correctly tracked. The solution addresses
+concurrency and data integrity concerns that may arise when multiple
+clients write to the same file through separate data servers. By
+defining additional interactions among clients, metadata servers, and
+data servers, this specification enhances the reliability of NFSv4 in
+parallel-access environments and ensures consistency across diverse
+deployment scenarios.</description>
+	</item>
+			<item>
+		<title>RFC 9750: The Messaging Layer Security (MLS) Architecture</title>
+		<link>https://www.rfc-editor.org/info/rfc9750</link>
+		<description>The Messaging Layer Security (MLS) protocol (RFC 9420) provides a
+group key agreement protocol for messaging applications. MLS is
+designed to protect against eavesdropping, tampering, and message
+forgery, and to provide forward secrecy (FS) and post-compromise
+security (PCS).  
+
+This document describes the architecture for using MLS in a general
+secure group messaging infrastructure and defines the security goals
+for MLS.  It provides guidance on building a group messaging system
+and discusses security and privacy trade-offs offered by multiple
+security mechanisms that are part of the MLS protocol (e.g.,
+frequency of public encryption key rotation). The document also
+provides guidance for parts of the infrastructure that are not
+standardized by MLS and are instead left to the application.
+
+While the recommendations of this document are not mandatory to
+follow in order to interoperate at the protocol level, they affect
+the overall security guarantees that are achieved by a messaging
+application. This is especially true in the case of active
+adversaries that are able to compromise clients, the Delivery Service
+(DS), or the Authentication Service (AS).</description>
+	</item>
+			<item>
+		<title>RFC 9765: RADIUS/1.1: Leveraging Application-Layer Protocol Negotiation (ALPN) to Remove MD5</title>
+		<link>https://www.rfc-editor.org/info/rfc9765</link>
+		<description>This document defines Application-Layer Protocol Negotiation (ALPN)
+extensions for use with RADIUS/TLS and RADIUS/DTLS.  These extensions
+permit the negotiation of an application protocol variant of RADIUS
+called &quot;RADIUS/1.1&quot;.  No changes are made to RADIUS/UDP or
+RADIUS/TCP. The extensions allow the negotiation of a transport
+profile where the RADIUS shared secret is no longer used, and all
+MD5-based packet authentication and attribute obfuscation methods are
+removed.
+
+This document updates RFCs 2865, 2866, 5176, 6613, 6614, and 7360.</description>
+	</item>
+			<item>
+		<title>RFC 9767: Grant Negotiation and Authorization Protocol Resource Server Connections</title>
+		<link>https://www.rfc-editor.org/info/rfc9767</link>
+		<description>The Grant Negotiation and Authorization Protocol (GNAP) defines a
+mechanism for delegating authorization to a piece of software (the
+client) and conveying the results and artifacts of that delegation to
+the software. This extension defines methods for resource servers
+(RSs) to connect with authorization servers (ASs) in an interoperable
+fashion.</description>
+	</item>
+			<item>
+		<title>RFC 9753: Extension for Stateful PCE to Allow Optional Processing of Path Computation Element Communication Protocol (PCEP) Objects</title>
+		<link>https://www.rfc-editor.org/info/rfc9753</link>
+		<description>This document introduces a mechanism to mark some of the Path
+Computation Element Communication Protocol (PCEP) objects as optional
+during PCEP message exchange, so the stateful Path Computation
+Element (PCE) model can relax some constraints during path
+computation and setup. This document introduces this relaxation to
+stateful PCE, and it updates RFC 8231.</description>
+	</item>
+			<item>
+		<title>RFC 9761: Manufacturer Usage Description (MUD) for TLS and DTLS Profiles for Internet of Things (IoT) Devices</title>
+		<link>https://www.rfc-editor.org/info/rfc9761</link>
+		<description>This memo extends the Manufacturer Usage Description (MUD)
+specification to allow manufacturers to define TLS and DTLS profile
+parameters. This allows a network security service to identify
+unexpected (D)TLS usage, which can indicate the presence of
+unauthorized software, malware, or security policy-violating traffic
+on an endpoint.</description>
+	</item>
+			<item>
+		<title>RFC 9752: Conveying Vendor-Specific Information in the Path Computation Element Communication Protocol (PCEP) Extensions for Stateful PCE</title>
+		<link>https://www.rfc-editor.org/info/rfc9752</link>
+		<description>This document specifies extensions to the Path Computation Element
+Communication Protocol (PCEP) that enable the inclusion of
+vendor-specific information in stateful Path Computation Element
+(PCE) operations. These extensions allow vendors to incorporate
+proprietary data within PCEP messages, facilitating enhanced network
+optimization and functionality in environments requiring
+vendor-specific features. The extensions maintain compatibility with
+existing PCEP implementations and promote interoperability across
+diverse network deployments. RFC 7470 defines a facility to carry
+vendor-specific information in stateless PCEP messages. This document
+extends this capability for the stateful PCEP messages.
+
+This document updates RFC 7470 to specify that Enterprise Numbers are
+managed through the &quot;Private Enterprise Numbers (PENs)&quot; registry.</description>
+	</item>
+			<item>
+		<title>RFC 9719: YANG Data Model for Routing in Fat Trees (RIFT)</title>
+		<link>https://www.rfc-editor.org/info/rfc9719</link>
+		<description>This document defines a YANG data model for the configuration and
+management of the Routing in Fat Trees (RIFT) Protocol. The model is
+based on YANG 1.1, which is defined in RFC 7950 and conforms to the
+Network Management Datastore Architecture (NMDA) as described in RFC
+8342.</description>
+	</item>
+			<item>
+		<title>RFC 9764: Bidirectional Forwarding Detection (BFD) Encapsulated in Large Packets</title>
+		<link>https://www.rfc-editor.org/info/rfc9764</link>
+		<description>The Bidirectional Forwarding Detection (BFD) protocol is commonly
+used to verify connectivity between two systems.  BFD packets are
+typically very small.  It is desirable in some circumstances to know
+not only that the path between two systems is reachable, but also
+that it is capable of carrying a payload of a particular size. This
+document specifies how to implement such a mechanism using BFD in
+Asynchronous mode. 
+
+YANG modules for managing this mechanism are also defined in this
+document.  These YANG modules augment the existing BFD YANG modules
+defined in RFC 9314. The YANG modules in this document conform to the
+Network Management Datastore Architecture (NMDA) (RFC 8342).</description>
+	</item>
+			<item>
+		<title>RFC 9692: RIFT: Routing in Fat Trees</title>
+		<link>https://www.rfc-editor.org/info/rfc9692</link>
+		<description>This document defines a specialized, dynamic routing protocol for
+Clos, fat tree, and variants thereof. These topologies were initially
+used within crossbar interconnects and consequently router and switch
+backplanes, but their characteristics make them ideal for
+constructing IP fabrics as well. The protocol specified by this
+document is optimized towards the minimization of control plane state
+to support very large substrates as well as the minimization of
+configuration and operational complexity to allow for a simplified
+deployment of said topologies.</description>
+	</item>
+			<item>
+		<title>RFC 9696: Routing in Fat Trees (RIFT) Applicability and Operational Considerations</title>
+		<link>https://www.rfc-editor.org/info/rfc9696</link>
+		<description>This document discusses the properties, applicability, and
+operational considerations of Routing in Fat Trees (RIFT) in
+different network scenarios with the intention of providing a rough
+guide on how RIFT can be deployed to simplify routing operations in
+Clos topologies and their variations.</description>
+	</item>
+			<item>
+		<title>RFC 9759: Unified Time Scaling for Temporal Coordination Frameworks</title>
+		<link>https://www.rfc-editor.org/info/rfc9759</link>
+		<description>Estimating time requirements for tasks, both critical and mundane,
+remains a challenge in engineering, business, and everyday
+communication.  Existing models fail due to inherent unpredictability
+and inconsistencies in human estimation.  This document introduces
+the Two-Week Principle (TWP), a novel, universally adaptable time
+scale that seeks to standardize all temporal references to a
+singular, uniform duration.  TWP ensures clarity, predictability, and
+synchronization across all sectors that rely on time-based
+scheduling.</description>
+	</item>
+			<item>
+		<title>RFC 9726: Operational Considerations for Use of DNS in Internet of Things (IoT) Devices</title>
+		<link>https://www.rfc-editor.org/info/rfc9726</link>
+		<description>This document details considerations about how Internet of Things
+(IoT) devices use IP addresses and DNS names.  These concerns become
+acute as network operators begin deploying Manufacturer Usage
+Descriptions (MUD), as specified in RFC 8520, to control device
+access.
+
+Also, this document makes recommendations on when and how to use DNS
+names in MUD files.</description>
+	</item>
+			<item>
+		<title>RFC 9777: Multicast Listener Discovery Version 2 (MLDv2) for IPv6</title>
+		<link>https://www.rfc-editor.org/info/rfc9777</link>
+		<description>This document specifies the Multicast Listener Discovery version 2
+(MLDv2) protocol.  MLD is used by an IPv6 router to discover the
+presence of multicast listeners on directly attached links and to
+discover which multicast addresses are of interest to those
+neighboring nodes.  MLDv2 is designed to be interoperable with MLDv1.
+ MLDv2 adds the ability for a node to report interest in listening to
+packets with a particular multicast address only from specific source
+addresses or from all sources except for specific source addresses.
+
+This document updates RFC 2710 and obsoletes RFC 3810.</description>
+	</item>
+		</channel>
+</rss>

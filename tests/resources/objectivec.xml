@@ -1,0 +1,45 @@
+<rss version="2.0">
+<channel>
+<title>Objective-See's Blog</title>
+<link>https://www.objective-see.com</link>
+<description>All Things Related to Mac Security</description>
+<item>
+<title>
+TCCing is Believing: Apple finally adds TCC events to Endpoint Security!
+</title>
+<link>https://objective-see.org/blog/blog_0x7F.html</link>
+<description>
+Apple will bring TCC events to Endpoint Security in macOS 15.4. In this post, we covers details, nuances, and provide PoC code for the new 'ES_EVENT_TYPE_NOTIFY_TCC_MODIFY' event.
+</description>
+<guid isPermaLink="true">https://objective-see.org/blog/blog_0x7F.html</guid>
+<pubDate>Thu, 27 March 2025 00:00:00 EST</pubDate>
+</item>
+<item>
+<title>Leaking Passwords (and more!) on macOS</title>
+<link>https://objective-see.org/blog/blog_0x7E.html</link>
+<description>
+In this guest blog post, researcher Noah Gregory shares the technical details of a bug he uncovered (that was subsequently patched by Apple as CVE-2024-5447).
+</description>
+<guid isPermaLink="true">https://objective-see.org/blog/blog_0x7E.html</guid>
+<pubDate>Thu, 20 March 2025 00:00:00 EST</pubDate>
+</item>
+<item>
+<title>The Mac Malware of 2024</title>
+<link>https://objective-see.org/blog/blog_0x7D.html</link>
+<description>
+It's here! Our annual report on all the Mac malware of the year (2024 edition). Besides providing samples for download, we cover infection vectors, persistence mechanisms, payloads and more!
+</description>
+<guid isPermaLink="true">https://objective-see.org/blog/blog_0x7D.html</guid>
+<pubDate>Wed, 1 Jan 2025 00:00:00 EST</pubDate>
+</item>
+<item>
+<title>Restoring Reflective Code Loading on macOS</title>
+<link>https://objective-see.org/blog/blog_0x7C.html</link>
+<description>
+Apple silently 'broke' in-memory code loading on macOS ...let's restore it!
+</description>
+<guid isPermaLink="true">https://objective-see.org/blog/blog_0x7C.html</guid>
+<pubDate>Mon, 16 Dec 2024 00:00:00 EST</pubDate>
+</item>
+</channel>
+</rss>
