@@ -17,9 +17,9 @@ A simple ASYNC RSS parser. To make retrieving RSS feeds ultra fast.
 
 ## Status
 
-> [!CAUTION]
-> This is module works and is used! But should be used with care!
-Extensive exception validation is left out on purpose for now in the code. 
+> [!NOTE]
+> This is module works and is used! You are invited to use it and make IT better!
+Extensive exception validation is left out on purpose. This to keep the code simple, clean, and mean!
 
 ## Installation
 
@@ -92,7 +92,7 @@ The fields that are parsed and stored for every feed are:
         "Graphs"
 ```
 
-All kind but edge cases are left out on purpose to keep the needed code simple. Creating a generic module for RSS/ATOM parsing is not simple. So design decision is to only incorporate logic that I need for the URLs I use.
+All kind but edge cases are left out on purpose to keep the needed code simple. Creating a generic module for RSS/ATOM parsing is not simple. So the design decision is to only incorporate logic that I need for the URLs I use. 
 
 
 ## Contribute
@@ -103,9 +103,15 @@ Simple Guidelines:
 * Questions, Feature Requests, Bug Reports please use on the `Github Issue Tracker`.
 
 > [!NOTE]
-> This is module works and is used! But it is in pre-release status.
+> This is module works and is used frequently on thousands of RSS feeds! 
 > Extensive exception validation is left out on purpose for now in the code. 
-> Feature requests are possible, but will probably only be realized after a quote and paid invoice. But this code is so **Simple** that I encourage everyone to make a special parser and share the code. So we all benefit!
+> Feature requests are possible, but will only be realised after a quote and paid invoice. But this code is so **Simple** that I encourage everyone to make a special parser and share the code. So we all benefit!
+> RSS feed parsing is a **minefield**. The standards leaves room and many sites struggle to publish clean RSS feeds. Also some sites mesh up RSS feeds on purpose. 
 
 
+## Security
+
+Besides a manual code review, this project is checked with the  static application security testing (SAST) tool: [Python Code Audit](https://github.com/nocomplexity/codeaudit).
+
+But note: You should **never** parse untrusted XML data from unknown sources. So recommended is to validate the RSS feeds you want retrieve for parsing before using this or **any** library before parsing XML! The used default Python libraries used in this module are considered safe, but parsing XML from malicious sites should never be done. All RSS readers have the same risk, so always practice [security by design principles](https://nocomplexity.com/simplify-security/)
 
