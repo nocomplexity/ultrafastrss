@@ -1,7 +1,6 @@
 # Ultra FAST RSS
 
-
-
+[![PythonCodeAudit Badge](https://img.shields.io/badge/Python%20Code%20Audit-Security%20Verified-FF0000?style=flat-square)](https://github.com/nocomplexity/codeaudit)
 [![PyPI - Version](https://img.shields.io/pypi/v/ultrafastrss.svg)](https://pypi.org/project/ultrafastrss)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ultrafastrss.svg)](https://pypi.org/project/ultrafastrss)
 
