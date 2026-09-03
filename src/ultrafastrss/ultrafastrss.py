@@ -1,5 +1,5 @@
 """
-License GPL3
+License MPL-2.0
 
 (C) 2024-2025 Created by Maikel Mardjan - https://nocomplexity.com/
 
@@ -27,7 +27,7 @@ import datetime
 
 
 nocxheaders = {
-    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0",
+    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:154.0) Gecko/20100101 Firefox/154.0",
     "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, */*;q=0.8",
     "Accept-Encoding": "gzip, deflate,br",
     "Connection": "keep-alive",  

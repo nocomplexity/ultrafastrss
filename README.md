@@ -69,7 +69,9 @@ Results are minimal 10 times faster with 500 URLs.
 
 ## License
 
-`ultrafastrss` is distributed under the terms of the [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html) license.
+`ultrafastrss` is distributed under the terms of the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
+
+
 
 
 ## Architecture
@@ -112,5 +114,10 @@ Simple Guidelines:
 
 Besides a manual code review, this project is checked with the  static application security testing (SAST) tool: [Python Code Audit](https://github.com/nocomplexity/codeaudit).
 
-But note: You should **never** parse untrusted XML data from unknown sources. So recommended is to validate the RSS feeds you want retrieve for parsing before using this or **any** library before parsing XML! The used default Python libraries used in this module are considered safe, but parsing XML from malicious sites should never be done. All RSS readers have the same risk, so always practice [security by design principles](https://nocomplexity.com/simplify-security/)
+But note: You should **never** parse untrusted XML data from unknown sources. So recommended is to validate the RSS feeds you want retrieve for parsing before using this or **any** library before parsing XML! 
+
+> [!TIP]
+> Use the great Python module [Python File Audit](https://github.com/nocomplexity/fileaudit) for simple security when processing `xml` files! 
+
+The used default Python libraries used in this module are considered safe, but parsing XML from malicious sites should never be done. All RSS readers have the same risk, so always practice [security by design principles](https://nocomplexity.com/simplify-security/)
 
