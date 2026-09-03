@@ -4,7 +4,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/ultrafastrss.svg)](https://pypi.org/project/ultrafastrss)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ultrafastrss.svg)](https://pypi.org/project/ultrafastrss)
 
------
+![ultrafastrss_logo](ultrafastrss_logo.png)
 
 A simple ASYNC RSS parser. To make retrieving RSS feeds ultra fast.
 
