@@ -42,7 +42,7 @@ jobs:
 
           cat CHANGELOG.md
 
-      - name: Create GitHub release
+      - name: Create GitHub release #gh release creates release notes to the GitHub release notes, no CHANGE.md file is created in the repository
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
