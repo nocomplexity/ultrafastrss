@@ -25,14 +25,28 @@ import re
 
 import datetime
 
-
 nocxheaders = {
-    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0",
-    "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, */*;q=0.8",
-    "Accept-Encoding": "gzip, deflate,br",
-    "Connection": "keep-alive",  
-    "Upgrade-Insecure-Requests": "1",  
+    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Cache-Control": "max-age=0",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
 }
+
+# nocxheaders = {
+#     "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0",
+#     "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, */*;q=0.8",
+#     "Accept-Encoding": "gzip, deflate,br",
+#     "Connection": "keep-alive",  
+#     "Upgrade-Insecure-Requests": "1",  
+# }
+
 nocxtimeout = 7
 
 # Define known timezone mappings
@@ -65,7 +79,7 @@ async def async_feedparser(url):
     """
 
     def feedparser():
-        try:
+        try:            
             request = Request(url, headers=nocxheaders)
             with urlopen(request, timeout=nocxtimeout) as response:
                 content: bytes = response.read()
@@ -110,7 +124,7 @@ def parse_feed(xml_content):
 
     Returns:
         json: rss content as json
-    """
+    """         
     root = ET.fromstring(xml_content)
     # Check for RSS 2.0
     if root.tag == "rss":
