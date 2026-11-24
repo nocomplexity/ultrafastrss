@@ -1,0 +1,51 @@
+name: Release Notes
+
+on:
+  push:
+    tags:
+      - '[0-9]*'        # matches 1.0.2, 2.1.0, etc.      
+  workflow_dispatch:  # allows manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # full history — required for git log between tags
+          fetch-tags: true
+
+      - name: Generate release notes
+        run: |
+          # Find the tag before the current one (by creation date)
+          PREV_TAG=$(git tag --sort=-creatordate | sed -n '2p')
+
+          if [ -n "$PREV_TAG" ]; then
+            RANGE="${PREV_TAG}..HEAD"
+            COMPARE="${PREV_TAG}...${GITHUB_REF_NAME}"
+          else
+            RANGE=""          # first release: include all commits
+            COMPARE="start...${GITHUB_REF_NAME}"
+          fi
+
+          {
+            echo "## What's Changed"
+            echo ""
+            git log $RANGE --pretty=format:'* %s (%h)'
+            echo ""
+            echo ""
+            echo "**Full Changelog**: \`${COMPARE}\`"
+          } > CHANGELOG.md
+
+          cat CHANGELOG.md
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" \
+            --title "Release ${GITHUB_REF_NAME}" \
+            --notes-file CHANGELOG.md
